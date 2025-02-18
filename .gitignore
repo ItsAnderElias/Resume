@@ -1,0 +1,45 @@
+# Node.js / React
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+.cache/
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+env/
+venv/
+*.env
+*.DS_Store
+db.sqlite3
+/media/
+staticfiles/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git / sistema operacional
+*.bak
+*.tmp
+*.lock
+Thumbs.db
+.DS_Store
+
+# Arquivos específicos do GitHub
+.git/
+.github/
+
+# Outros
+*.log
+*.out
+coverage/
+
+# Pasta de configurações
+/.vscode
