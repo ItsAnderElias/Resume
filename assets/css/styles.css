@@ -107,17 +107,17 @@ nav ul li {
     }
 }
 
-.menu-carrer:hover {
+.menu-career:hover {
     transition: all 1s ease-in-out;
     opacity: 1;
     scale: 1.1;
-    content: url('../img/icons/desktop/carrer-2.png');
+    content: url('../img/icons/desktop/career-2.png');
 }
 @media (max-width: 1024px) {
-    .menu-carrer:hover {
+    .menu-career:hover {
         transition: all 1s ease-in-out;
         opacity: 1;
         scale: 1.1;
-        content: url('../img/icons/mobile/carrer-2.png');
+        content: url('../img/icons/mobile/career-2.png');
     }
 }
